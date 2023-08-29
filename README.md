@@ -1,3 +1,3 @@
 # online-calculator
 ## Coba aplikasi
-mechine-cacl.netlify.app
+<a target="_blank"> mechine-cacl.netlify.app <a/>
